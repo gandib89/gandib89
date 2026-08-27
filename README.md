@@ -2,7 +2,7 @@
 
 I'm Gandib. I am a Software Engineer with a full-stack and applied-AI focus, backed by an AWS AI Practitioner (AIF-C01) certification. I approach every project through a system-design lens first — thinking through architecture, scalability, and failure modes before writing code — and translate that thinking into database architecture, API design, and cloud infrastructure choices that hold up under real-world load.
 
-**Fun facts:**
+**Core Capabilities:**
 - Languages: JavaScript, Python, C, SQL<!-- add one -->
 - Frameworks: Django, Django REST Framework, React, Node.js, Express.js<!-- add one -->
 - Databases: PostgreSQL, MongoDB, MySQL
